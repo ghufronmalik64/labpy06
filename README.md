@@ -2,15 +2,15 @@
 ## Kelas        :   TI.22.B2
 ## Mata kuliah  :   Bahasa Pemrograman
 
-| No |    DAFTAR ISI    |  LINK  |
-|----|----------------  |--------|
-| 1  |Latihan 1         |[Click](https://github.com/ghufronmalik64/labpy06.git#Latihan-1)|
-| 2  |Tugas Praktikum   |[Click](https://github.com/ghufronmalik64/labpy06.git#Tugas-Praktikum) |
-| 3  |Penjelasan        |[Click](https://github.com/ghufronmalik64/labpy06.git#Penjelasan) |
-| 4  |Hasil Output      |[Click](https://github.com/ghufronmalik64/labpy06.git#Hasil-Output) |
+| ABJAD |    DAFTAR ISI    |  LINK  |
+|-------|----------------  |--------|
+|   A   |Latihan 1         |[Click](https://github.com/ghufronmalik64/labpy06#Latihan-1) |
+|   B   |Tugas Praktikum   |[Click](https://github.com/ghufronmalik64/labpy06#Tugas-Praktikum) |
+|   C   |Penjelasan        |[Click](https://github.com/ghufronmalik64/labpy06#Penjelasan) |
+|   D   |Hasil Output      |[Click](https://github.com/ghufronmalik64/labpy06#Hasil-Output) |
 
 
-# Latihan 1
+# A. Latihan 1
 ![img1](image/l1.png)
 
 ### Source Code
@@ -41,7 +41,7 @@ print(d("TUGAS"))
 ![img2](image/l2.png)
 
 
-# Tugas Praktikum
+# B. Tugas Praktikum
 
 Berikut adalah tampilan program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 - Fungsi tambah() untuk menambah data
@@ -57,7 +57,7 @@ Berikut adalah tampilan program sederhana dengan mengaplikasikan penggunaan fung
 ### Flowchart
 ![img5](image/1.png)
 
-## Penjelasan
+## C. Penjelasan
 
 ### 1. Membuat Dictonary
 - Hal pertama membuat dictonary kosong dengan syntax `a = {}` . Fungsinya untuk menginput data dalam program tersebut dan memudahkan kita untuk memanggil data itu lagi.
@@ -162,7 +162,7 @@ while True:
         print("PILIH MENU YANG TERSEDIA !!!")
 ```
 
-## Hasil Output
+## C. Hasil Output
 
 Apabila program dijalankan maka akan menghasilkan output sebagai berikut :
 
