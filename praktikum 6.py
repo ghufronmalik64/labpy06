@@ -28,7 +28,7 @@ while True:
                 print("="*78)
         else:
             print("="*78)
-            print("|                        Daftar nilai Mahasiswa                           |")
+            print("|                        Daftar Nilai Mahasiswa                           |")
             print("="*78)
             print("|                         TIDAK ADA DATA !!!                              |")
             print("="*78)
