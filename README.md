@@ -4,10 +4,10 @@
 
 | No |    DAFTAR ISI    |  LINK  |
 |----|----------------  |--------|
-| 1  | Latihan 1        |[Click](https://github.com/ghufronmalik64/labpy06.git#Latihan 1)|
-| 2  | Tugas Praktikum  |[Click](https://github.com/ghufronmalik64/labpy06.git#Tugas Praktikum) |
-| 3  | Penjelasan       |[Click](https://github.com/ghufronmalik64/labpy06.git#Penjelasan) |
-| 4  | Hasil Output     |[Click](https://github.com/ghufronmalik64/labpy06.git#Hasil Output) |
+| 1  |Latihan 1         |[Click](https://github.com/ghufronmalik64/labpy06.git#Latihan1)|
+| 2  |Tugas Praktikum   |[Click](https://github.com/ghufronmalik64/labpy06.git#TugasPraktikum) |
+| 3  |Penjelasan        |[Click](https://github.com/ghufronmalik64/labpy06.git#Penjelasan) |
+| 4  |Hasil Output      |[Click](https://github.com/ghufronmalik64/labpy06.git#HasilOutput) |
 
 
 # Latihan 1
