@@ -62,7 +62,7 @@ while True:
         nama = input("Masukkan Nama : ")
         if nama in a.keys():
             print("="*73)
-            print("|                             Daftar Mahasiswa                          |")
+            print("|                        Daftar Nilai Mahasiswa                         |")
             print("="*73)
             print("| Nama            |       NIM       |  UTS  |  UAS  |  Tugas  |  Akhir  |")
             print("="*73)
