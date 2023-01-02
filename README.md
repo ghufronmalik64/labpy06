@@ -9,8 +9,10 @@
 |  3 |C. Penjelasan     |[Click](https://github.com/ghufronmalik64/labpy06#C-Penjelasan) |
 |  4 |D. Hasil Output   |[Click](https://github.com/ghufronmalik64/labpy06#D-Hasil-Output) |
 
+</p>
 
 # A. Latihan 1
+<a href="https://asciinema.org/a/540863"><img src="/assets/main.png" width="836"/></a>
 ![img1](image/l1.png)
 
 ### Source Code
